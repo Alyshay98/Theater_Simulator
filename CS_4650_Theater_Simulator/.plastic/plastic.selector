@@ -1,0 +1,4 @@
+repository "CS_4650_Theater_Simulator@Alyshay76@cloud"
+  path "/"
+    br "/main"
+    co "/main"
